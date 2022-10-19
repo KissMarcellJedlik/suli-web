@@ -1,0 +1,22 @@
+#Igazgato {
+    border: 10px solid red;
+    padding: 5px;
+}
+.tanar {
+    border: 10px solid darkgray;
+    margin:0 20px;
+    padding: 5px;
+}
+.szellos {
+    letter-spacing: 3px;
+}
+.fontos {
+    color: red;
+    font-weight: bold;
+}
+
+
+ul {
+    
+    list-style-image: url(suli-web/images/burnoczkine.kovacs.erika_kicsi.jpg);
+}

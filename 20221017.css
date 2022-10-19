@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+table,td {
+    border: 1px solid darkblue;
+    border-collapse: collapse;
+}
+
+div,p {
+    background-color: aquamarine;
+}
+th {
+    background-color: #050505;
+    color: #898989 ;
+}td, th{
+    padding: 10px;
+}
+.kozep{
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+hr {
+    margin: 20px 0;
+    border: 5px solid black;
+}
+
+.kep{
+    border: #050505;
+}
